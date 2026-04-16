@@ -7,8 +7,11 @@ This repository contains materials related to Project 2 for the NSIETE course, i
 - **University:** Slovak University of Technology
 - **Faculty:** Faculty of Informatics and Information Technologies STU
 
-## Dataset link
+## Main dataset link
 https://www.kaggle.com/datasets/kapillondhe/american-sign-language
+
+## Second dataset link
+https://data.mendeley.com/datasets/j4y5w2c8w9/1
 
 ## Article link
 https://arxiv.org/abs/1710.09412v2
